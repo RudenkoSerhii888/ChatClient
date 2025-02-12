@@ -1,11 +1,11 @@
 Building a Socket-Based Chat Application
 This project includes interfaces defined in the chat client. It handles receiving and sending messages as well as displaying them.
-A class implementing the interface for displaying messages
-A class implementing the interface for receiving and sending messages
-A Message class
-A thread class for receiving messages
-A thread class for sending messages
-A Client class
+A class implementing the interface for displaying messages.
+A class implementing the interface for receiving and sending messages.
+A Message class.
+A thread class for receiving messages.
+A thread class for sending messages.
+A Client class.
 The GSON library was used.
 
 
